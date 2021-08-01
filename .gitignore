@@ -1,0 +1,9 @@
+target/
+**/.bsp
+**/.vscode
+**/.metals
+**/target
+non_private_counts_per_day.csv
+private_counts_per_day.csv
+non_private_counts_per_hour.csv
+private_counts_per_hour.csv
